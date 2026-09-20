@@ -31,28 +31,28 @@
 
 ---
 
-## 📜 Parte 1: Storia del Videogioco Giapponese (15 min)[cite: 1]
+## 📜 Parte 1: Storia del Videogioco Giapponese (15 min)
 
-Un breve viaggio storico attraverso le tappe fondamentali che hanno definito la grammatica del genere platform[cite: 1]:
+Un breve viaggio storico attraverso le tappe fondamentali che hanno definito la grammatica del genere platform
 
-### 🕹️ 1978 — Il Boom dei Game Center[cite: 1]
-* **Space Invaders (Taito):** Accende l'industria arcade in Giappone[cite: 1]. Il successo fu così travolgente da causare (secondo la leggenda) una temporanea carenza di monete da 100 yen[cite: 1].
-* **Nascita dei Game Center:** Le sale giochi diventano luoghi fondamentali di aggregazione giovanile e socialità[cite: 1].
-* **I grandi Publisher:** Nascono e si strutturano le aziende che domineranno il mercato: *Nintendo*, *Sega*, *Namco*, *Capcom*, *Konami*[cite: 1].
+### 🕹️ 1978 — Il Boom dei Game Center
+* **Space Invaders (Taito):** Accende l'industria arcade in Giappone. Il successo fu così travolgente da causare (secondo la leggenda) una temporanea carenza di monete da 100 yen
+* **Nascita dei Game Center:** Le sale giochi diventano luoghi fondamentali di aggregazione giovanile e socialità.
+* **I grandi Publisher:** Nascono e si strutturano le aziende che domineranno il mercato: *Nintendo*, *Sega*, *Namco*, *Capcom*, *Konami*
 
-### 🦍 1981 — Nasce il Platform: Donkey Kong[cite: 1]
-* **Shigeru Miyamoto:** Introduce per la prima volta una narrazione visiva strutturata su più livelli verticali[cite: 1].
-* **Jumpman:** Debutta il personaggio che pochi anni dopo diventerà *Mario*[cite: 1].
-* **La Grammatica Base:** Piattaforme da scalare, ostacoli in movimento da schivare e un obiettivo in cima alla schermata[cite: 1].
+### 🦍 1981 — Nasce il Platform: Donkey Kong
+* **Shigeru Miyamoto:** Introduce per la prima volta una narrazione visiva strutturata su più livelli verticali.
+* **Jumpman:** Debutta il personaggio che pochi anni dopo diventerà *Mario*.
+* **La Grammatica Base:** Piattaforme da scalare, ostacoli in movimento da schivare e un obiettivo in cima alla schermata.
 
-### 🍄 1985 — Super Mario Bros. e lo Scrolling[cite: 1]
-* **Scrolling Orizzontale:** Il mondo di gioco non è più vincolato a una singola schermata fissa[cite: 1].
-* **Level Design Didattico:** Il livello 1-1 insegna le regole del gioco in modo intuitivo senza bisogno di istruzioni scritte[cite: 1].
-* **Rinascita dell'Industria:** Salva e rilancia il mercato globale dei videogiochi dopo la crisi del 1983[cite: 1].
+### 🍄 1985 — Super Mario Bros. e lo Scrolling
+* **Scrolling Orizzontale:** Il mondo di gioco non è più vincolato a una singola schermata fissa.
+* **Level Design Didattico:** Il livello 1-1 insegna le regole del gioco in modo intuitivo senza bisogno di istruzioni scritte.
+* **Rinascita dell'Industria:** Salva e rilancia il mercato globale dei videogiochi dopo la crisi del 1983.
 
-### 🦔 1991 — Sonic & La Console War[cite: 1]
-* **Sega Mega Drive:** Sfida il dominio Nintendo puntando sulla velocità pura[cite: 1].
-* Il genere platform diventa il principale terreno di scontro d'immagine tra le due grandi compagnie negli anni '90[cite: 1].
+### 🦔 1991 — Sonic & La Console War
+* **Sega Mega Drive:** Sfida il dominio Nintendo puntando sulla velocità pura.
+* Il genere platform diventa il principale terreno di scontro d'immagine tra le due grandi compagnie negli anni '90.
 
 ### 🏃 Step 2: Assegnazione dei Comportamenti (Behaviors)
 Seleziona ciascun oggetto e nel pannello **Properties -> Behaviors** aggiungi:
