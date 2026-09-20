@@ -54,6 +54,20 @@ Un breve viaggio storico attraverso le tappe fondamentali che hanno definito la 
 * **Sega Mega Drive:** Sfida il dominio Nintendo puntando sulla velocità pura.
 * Il genere platform diventa il principale terreno di scontro d'immagine tra le due grandi compagnie negli anni '90.
 
+## 🛠️ Parte 2: Sviluppo Pratico con Construct 3 (45 min)
+
+In questa fase pratica usiamo la logica dei classici platform per creare un gioco giocabile da zero[cite: 1].
+---
+
+### 🚀 Step 1: Creazione Progetto e Caricamento Sprite
+1. Vai su [editor.construct.net](https://editor.construct.net/).
+2. Clicca su **Nuovo Progetto**, imposta la risoluzione (es. `1280 x 720`).
+3. Fai doppio clic sul Layout per aggiungere i seguenti oggetti **Sprite**:
+   * **`Player`**: Il personaggio giocabile.
+   * **`SolidGround`**: Il blocco/piattaforma.
+   * **`Coin`**: L'oggetto da collezionare.
+
+---
 ### 🏃 Step 2: Assegnazione dei Comportamenti (Behaviors)
 Seleziona ciascun oggetto e nel pannello **Properties -> Behaviors** aggiungi:
 
