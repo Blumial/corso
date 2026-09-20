@@ -56,7 +56,7 @@ Un breve viaggio storico attraverso le tappe fondamentali che hanno definito la 
 
 ## 🛠️ Parte 2: Sviluppo Pratico con Construct 3 (45 min)
 
-In questa fase pratica usiamo la logica dei classici platform per creare un gioco giocabile da zero[cite: 1].
+In questa fase pratica usiamo la logica dei classici platform per creare un gioco giocabile da zero.
 ---
 
 ### 🚀 Step 1: Creazione Progetto e Caricamento Sprite
