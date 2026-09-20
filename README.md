@@ -54,8 +54,44 @@ Un breve viaggio storico attraverso le tappe fondamentali che hanno definito la 
 * **Sega Mega Drive:** Sfida il dominio Nintendo puntando sulla velocità pura[cite: 1].
 * Il genere platform diventa il principale terreno di scontro d'immagine tra le due grandi compagnie negli anni '90[cite: 1].
 
+### 🏃 Step 2: Assegnazione dei Comportamenti (Behaviors)
+Seleziona ciascun oggetto e nel pannello **Properties -> Behaviors** aggiungi:
+
+* **Player:**
+  * Aggiungi il comportamento **`Platform`** (gestisce la gravità, la corsa e il salto con le frecce direzionali).
+  * Aggiungi il comportamento **`Bound to layout`** (impedisce al giocatore di uscire dallo schermo).
+* **SolidGround:**
+  * Aggiungi il comportamento **`Solid`** (rende il blocco un ostacolo solido su cui ci si può appoggiare).
+
 ---
 
-## 🛠️ Parte 2: Sviluppo Pratico con Construct 3 (45 min)[cite: 1]
+### 🧠 Step 3: Logica ed Event Sheet (Variabili e Collezionabili)
 
-In questa fase pratica usiamo la logica dei classici platform per creare un gioco giocabile da zero[cite: 1].
+Passa alla scheda **Event Sheet** per programmare la logica del gioco:
+
+#### 1. Creare la Variabile Globale del Punteggio
+* Fai clic con il tasto destro nell'Event Sheet e seleziona **Add global variable**.
+* Nome: `Score`
+* Tipo: `Number`
+* Valore iniziale: `0`
+
+#### 2. Raccogliere la Moneta ed Incrementare lo Score
+Aggiungi il seguente evento:
+
+* **Condition:** `Player` ➡️ *On collision with another object* ➡️ seleziona `Coin`
+* **Actions:**
+  1. `System` ➡️ *Add to* ➡️ Variable: `Score`, Value: `1`
+  2. `Coin` ➡️ *Destroy* (la moneta scompare dal livello)
+
+---
+
+## 📦 Requisiti e Risorse
+
+* **Browser Web:** Google Chrome, Edge o Firefox (nessun software da installare).
+* **Game Engine:** [Construct 3 Editor](https://editor.construct.net/)
+* **Asset Grafici:** Sprite semplici o pixel art creati con l'editor integrato di Construct.
+
+---
+<div align="center">
+  <sub>Workshop creato per Japan Matsuri • Realizzato con Construct 3</sub>
+</div>
